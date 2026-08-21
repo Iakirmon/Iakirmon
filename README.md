@@ -1,5 +1,9 @@
 ### Hi, I'm Wojciech
 
+
+![Profile views](https://shields.io.com/badge?username=Iakirmon)
+
+
 ERP implementation specialist focused on system integrations —
 especially **KSeF / FA(3)** e-invoicing.  When an integration needs more than a black-box
 check, I build tools that stay auditable: every finding ties back to an official source.
