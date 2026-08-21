@@ -88,20 +88,52 @@ check, I build tools that stay auditable: **every finding ties back to an offici
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Iakirmon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iakirmon&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iakirmon&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Iakirmon&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+  <img src="https://img.shields.io/github/stars/Iakirmon?affiliations=OWNER&style=flat-square&label=Total%20stars&color=f5c518" alt="Total stars" />
 </p>
 
+### Repositories at a glance
+
+| Repository | Language | Stars | Last commit |
+| :--- | :--- | :--- | :--- |
+| [**ksef-fa3-checker**](https://github.com/Iakirmon/ksef-fa3-checker) | ![lang](https://img.shields.io/github/languages/top/Iakirmon/ksef-fa3-checker?style=flat-square&label=) | ![stars](https://img.shields.io/github/stars/Iakirmon/ksef-fa3-checker?style=flat-square&label=&color=f5c518) | ![last commit](https://img.shields.io/github/last-commit/Iakirmon/ksef-fa3-checker?style=flat-square&label=) |
+| [**sortlab**](https://github.com/Iakirmon/sortlab) | ![lang](https://img.shields.io/github/languages/top/Iakirmon/sortlab?style=flat-square&label=) | ![stars](https://img.shields.io/github/stars/Iakirmon/sortlab?style=flat-square&label=&color=f5c518) | ![last commit](https://img.shields.io/github/last-commit/Iakirmon/sortlab?style=flat-square&label=) |
+| [**ios-obd2-ble-diagnostics**](https://github.com/Iakirmon/ios-obd2-ble-diagnostics) | ![lang](https://img.shields.io/github/languages/top/Iakirmon/ios-obd2-ble-diagnostics?style=flat-square&label=) | ![stars](https://img.shields.io/github/stars/Iakirmon/ios-obd2-ble-diagnostics?style=flat-square&label=&color=f5c518) | ![last commit](https://img.shields.io/github/last-commit/Iakirmon/ios-obd2-ble-diagnostics?style=flat-square&label=) |
+| [**sfml2d**](https://github.com/Iakirmon/sfml2d) | ![lang](https://img.shields.io/github/languages/top/Iakirmon/sfml2d?style=flat-square&label=) | ![stars](https://img.shields.io/github/stars/Iakirmon/sfml2d?style=flat-square&label=&color=f5c518) | ![last commit](https://img.shields.io/github/last-commit/Iakirmon/sfml2d?style=flat-square&label=) |
+| [**weather_api**](https://github.com/Iakirmon/weather_api) | ![lang](https://img.shields.io/github/languages/top/Iakirmon/weather_api?style=flat-square&label=) | ![stars](https://img.shields.io/github/stars/Iakirmon/weather_api?style=flat-square&label=&color=f5c518) | ![last commit](https://img.shields.io/github/last-commit/Iakirmon/weather_api?style=flat-square&label=) |
+
+<!--
+  ── Karty statystyk (opcjonalnie) ─────────────────────────────────────────────
+  Poniższe cztery karty są ZAKOMENTOWANE, bo publiczne instancje nie działają
+  (sprawdzone 2026-08-21):
+    github-readme-stats.vercel.app     -> HTTP 503, DEPLOYMENT_PAUSED
+    github-profile-trophy.vercel.app   -> HTTP 402, DEPLOYMENT_DISABLED
+    streak-stats.demolab.com           -> HTTP 200, ale ~21 s (camo GitHuba zrywa)
+
+  Zeby ich uzyc, postaw wlasna instancje (fork -> Deploy on Vercel -> ustaw
+  zmienna PAT_1 z tokenem GitHuba) i podmien host w URL-ach ponizej:
+    https://github.com/anuraghazra/github-readme-stats
+    https://github.com/ryo-ma/github-profile-trophy
+    https://github.com/DenverCoder1/github-readme-streak-stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iakirmon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img height="170" src="https://TWOJA-INSTANCJA.vercel.app/api?username=Iakirmon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://TWOJA-INSTANCJA.vercel.app/api/top-langs/?username=Iakirmon&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
+<p align="center">
+  <img src="https://TWOJA-INSTANCJA-STREAK.vercel.app/?user=Iakirmon&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img src="https://TWOJA-INSTANCJA-TROPHY.vercel.app/?username=Iakirmon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+  ──────────────────────────────────────────────────────────────────────────────
+-->
 
 ---
 
