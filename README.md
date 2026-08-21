@@ -1,12 +1,110 @@
-### Hi, I'm Wojciech
+<h1 align="center">Hi, I'm Wojciech</h1>
 
-ERP implementation specialist focused on system integrations —
-especially **KSeF / FA(3)** e-invoicing.  When an integration needs more than a black-box
-check, I build tools that stay auditable: every finding ties back to an official source.
+<p align="center">
+  <b>ERP implementation consultant</b> · system integrations · <b>KSeF / FA(3)</b> e-invoicing
+</p>
 
-**Public highlights**
-- [ksef-fa3-checker](https://github.com/Iakirmon/ksef-fa3-checker) — FA(3) / KSeF invoice validator with auditable MF source quotes ([demo](https://iakirmon.github.io/ksef-fa3-checker/))
-- [sortlab](https://github.com/Iakirmon/sortlab) — sorting algorithm measurement lab (Python): instrumentation, complexity fits, charts
-- [ios-obd2-ble-diagnostics](https://github.com/Iakirmon/ios-obd2-ble-diagnostics) — native iOS OBD-II over BLE (SwiftUI + CoreBluetooth)
-- [sfml2d](https://github.com/Iakirmon/sfml2d) — 2D graphics with SFML (C++)
-- [weather_api](https://github.com/Iakirmon/weather_api) — simple Python weather API
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iakirmon&label=Profile%20views&color=6f42c1&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Iakirmon?tab=followers"><img src="https://img.shields.io/github/followers/Iakirmon?label=Follow%20Me&style=flat-square&logo=github&color=24292e" alt="Follow" /></a>
+  <a href="https://github.com/Iakirmon?tab=repositories"><img src="https://img.shields.io/badge/%E2%AD%90-Star%20My%20Repos-f5c518?style=flat-square" alt="Star my repos" /></a>
+  <a href="https://iakirmon.github.io/ksef-fa3-checker/"><img src="https://img.shields.io/badge/%F0%9F%A7%BE-FA(3)%20Checker%20Demo-0a7c3f?style=flat-square" alt="FA(3) checker demo" /></a>
+</p>
+
+---
+
+## 🧾 About
+
+I work as an **ERP implementation consultant**, focused on system integrations — especially
+**KSeF / FA(3)** structured e-invoicing. When an integration needs more than a black-box
+check, I build tools that stay auditable: **every finding ties back to an official source.**
+
+- Structured e-invoicing: **FA(3) / KSeF** schemas, validation, error diagnosis
+- ERP integrations: document exchange, master-data mapping, interface contracts
+- Auditable validation: each rule cites its source, each finding explains how to fix it
+- Requirement analysis → implementation → acceptance, with the paper trail intact
+- Side projects where I get to measure things properly (algorithms, embedded, graphics)
+
+---
+
+## 🛠 Stack
+
+- **Languages:** Python, SQL, C++, Swift
+- **Data formats:** XML / XSD, JSON, CSV, structured invoice schemas
+- **Integrations:** REST APIs, file & document exchange, batch interfaces
+- **Domain:** ERP implementations, e-invoicing (KSeF / FA(3)), regulatory compliance
+- **Tooling:** Git / SVN, pytest, matplotlib, GitHub Pages
+
+---
+
+## 🚀 Public Highlights
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Iakirmon/ksef-fa3-checker"><b>ksef-fa3-checker</b></a><br/>
+      <sub>FA(3) / KSeF invoice validator.<br/>Auditable MF source quotes.<br/><a href="https://iakirmon.github.io/ksef-fa3-checker/">live demo</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Iakirmon/sortlab"><b>sortlab</b></a><br/>
+      <sub>Sorting algorithm measurement lab.<br/>Instrumentation, complexity fits, charts.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Iakirmon/ios-obd2-ble-diagnostics"><b>ios-obd2-ble-diagnostics</b></a><br/>
+      <sub>Native iOS OBD-II over BLE.<br/>Live telemetry, session recording.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Iakirmon/sfml2d"><b>sfml2d</b></a><br/>
+      <sub>2D graphics experiments<br/>with SFML (C++).</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Iakirmon/weather_api"><b>weather_api</b></a><br/>
+      <sub>Simple Python weather API.<br/>Small, readable, done.</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>More in<br/><a href="https://github.com/Iakirmon?tab=repositories">repositories →</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/XML%20%2F%20XSD-F16529?style=for-the-badge&logo=xml&logoColor=white" alt="XML / XSD" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Iakirmon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iakirmon&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Iakirmon&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iakirmon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Every rule cites its source. Every finding explains how to fix it.</sub>
+</p>
