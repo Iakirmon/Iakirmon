@@ -1,9 +1,5 @@
 ### Hi, I'm Wojciech
 
-
-![Views](https://kostr.dev/api/views?repo=Iakirmon&user=Iakirmon&t=1)
-![](https://github-readme-stats.vercel.app/api?username=Iakirmon&show_icons=true&cache_seconds=86400)
-
 ERP implementation specialist focused on system integrations —
 especially **KSeF / FA(3)** e-invoicing.  When an integration needs more than a black-box
 check, I build tools that stay auditable: every finding ties back to an official source.
